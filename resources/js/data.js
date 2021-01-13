@@ -70,11 +70,11 @@ const pfImg = [
 const pfTitle = {
     "Weather Dashboard": "Vanilla JS",
     "Password Generator": "Vanilla JS",
-    "Example 0": "Example ",
-    "Example 1": "Example 1",
-    "Example 2": "Example 2",
-    "Example 3": "Example 3",
-    "Example 4": "Example 4",
+    "Note Taker": "Vanilla JS",
+    "Employee Tracker": "Vanilla JS",
+    "Budget Tracker": "Vanilla JS",
+    "Workout Tracker": "Vanilla JS",
+    "Employee Directory": "Vanilla JS",
 }
 
 const pfWebpage = {
